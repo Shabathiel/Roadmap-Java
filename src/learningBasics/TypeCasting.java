@@ -19,7 +19,7 @@ public class TypeCasting {
 	    System.out.println("The double value: " + num);
 
 
-	    int data2 = (int)num;
+	    int data2 = (int)num2;
 
 	    System.out.println("The integer value: " + data);
 	    
@@ -30,7 +30,7 @@ public class TypeCasting {
 	    System.out.println("The integer value is: " + num);
 
 
-	    String data3 = String.valueOf(num);
+	    String data3 = String.valueOf(num3);
 
 	    System.out.println("The string value is: " + data);
 
