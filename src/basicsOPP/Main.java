@@ -1,6 +1,6 @@
 package basicsOPP;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 		Clock c = new Clock(120000,10005);
